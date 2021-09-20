@@ -2,7 +2,7 @@
 
 - 👀 I am currently in my final year at DTU completing my B.Tech. in Computer Engineering. I’m interested in a lot of things like competitive coding in C / C++ / Python. I have done a lot of projects, 3 internships and worked for a research groups in the field of Machine Learning, Deep Learning, AI and Computer Vision. I also work as a freelancer with clients in more than 10 countries across the world.
 
-- 🌱 I have over 8 months of experience in internships alone, 11 months of experience in research teams and over 10 months of experience working as a freelancer.
+- 🌱 I have over 8 months of experience in internships alone, 2 months of experience in research teams and over 10 months of experience working as a freelancer.
 
 - 📫 How to reach me ... 
 Email - ashes4799@gmail.com
