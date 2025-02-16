@@ -1,12 +1,14 @@
 - 👋 Hi, I’m @Ashes47
 
-- 👀 I am currently in my final year at DTU completing my B.Tech. in Computer Engineering. I’m interested in a lot of things like competitive coding in C / C++ / Python. I have done a lot of projects, 3 internships and worked for a research groups in the field of Machine Learning, Deep Learning, AI and Computer Vision. I also work as a freelancer with clients in more than 10 countries across the world.
+- 👀 I am proficient in C++, Python, Java, and JavaScript. I have worked in fields of backend development, aws cdk development, machine learning, computer vision and artificial intelligence.
 
-- 🌱 I have over 8 months of experience in internships alone, 2 months of experience in research teams and over 10 months of experience working as a freelancer.
+- 🌱 Playing with data enginerring at the moment.
 
 - 📫 How to reach me ... 
 Email - ashes4799@gmail.com
 LinkedIn - https://www.linkedin.com/in/anuj47/
+
+[![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashes47)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Ashes47/Ashes47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
