@@ -8,7 +8,7 @@
 Email - ashes4799@gmail.com
 LinkedIn - https://www.linkedin.com/in/anuj47/
 
-[![Anuj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=imdigitalashish&bg_color=000000&color=ffffff&line=ffa047&point=1b03d3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Anuj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashes47&bg_color=000000&color=ffffff&line=ffa047&point=1b03d3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!--
