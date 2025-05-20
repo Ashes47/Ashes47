@@ -7,13 +7,11 @@
 - 📫 How to reach me ... 
 Email - ashes4799@gmail.com
 LinkedIn - https://www.linkedin.com/in/anuj47/
-
-[![Anuj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashes47&bg_color=000000&color=ffffff&line=ffa047&point=1b03d3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashes47)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
 **Ashes47/Ashes47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[![Anuj's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ashes47)](https://github.com/anuraghazra/github-readme-stats)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
