@@ -47,7 +47,7 @@ Infrastructure for compounding organic growth.
 
 - Programmatic publishing engine  
 - Cloudflare-backed domain distribution  
-- GA4 + Search Console integration  
+- In built GDPR compliant cookieless Analytics + Search Console integration  
 - Internal linking automation  
 - Multi-tenant blog infrastructure  
 
