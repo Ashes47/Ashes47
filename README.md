@@ -51,6 +51,18 @@
 -->
 ---
 
+## 📝 Writing & Featured Work
+
+<a href="https://www.microagi.ai/articles/delivery-platform"><img src="https://img.shields.io/badge/MicroAGI-000000?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyB3aWR0aD0iNTAwIiBoZWlnaHQ9IjQ4NyIgdmlld0JveD0iMCAwIDUwMCA0ODciIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI%2BCjxwYXRoIGQ9Ik01NC45NDUzIDIzOS4wMTFWNDg2LjI2M0gwLjAwMDMwNTE3NlYyMzkuMDExSDU0Ljk0NTNaIiBmaWxsPSJ3aGl0ZSIvPgo8cGF0aCBkPSJNMTY3LjU4MyA0OS40NTAyVjM0OC45SDExMi42MzhWNDkuNDUwMkgxNjcuNTgzWiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTI4MC4yMiAwVjI5OS40NUgyMjUuMjc1VjBIMjgwLjIyWiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTM5MC4xMSA0OS40NTAyVjM0OC45SDMzNS4xNjVWNDkuNDUwMkgzOTAuMTFaIiBmaWxsPSJ3aGl0ZSIvPgo8cGF0aCBkPSJNNTAwIDE4Ni44MTNWNDg2LjI2NEg0NDUuMDU1VjE4Ni44MTNINTAwWiIgZmlsbD0id2hpdGUiLz4KPC9zdmc%2BCg%3D%3D&logoColor=white" align="left" height="20"/></a>&nbsp; **[A petabyte a day, into anyone’s cloud](https://www.microagi.ai/articles/delivery-platform)** · *co-author*
+
+Moving robot training data across the Atlantic at over **1 PB a day**: staged once on Hugging Face Buckets, fanned out through Cloudflare Workers, and verified object by object at any destination.
+
+<a href="https://www.atlassian.com/blog/how-we-build/evolve-your-data-platform-with-a-deployment-capability"><img src="https://img.shields.io/badge/Atlassian-0052CC?style=flat-square&logo=atlassian&logoColor=white" align="left" height="20"/></a>&nbsp; **[Evolve your data platform with a Deployment Capability](https://www.atlassian.com/blog/how-we-build/evolve-your-data-platform-with-a-deployment-capability)** · *platform I helped build*
+
+Atlassian’s data platform, ingesting 85+ TB a day. I owned data quality, the metrics platform and batch ingestion, built end-to-end testing for the entire control plane, and contributed to transformation and other control-plane services.
+
+---
+
 ## 🛠 Tech Stack
 
 <p align="center">
